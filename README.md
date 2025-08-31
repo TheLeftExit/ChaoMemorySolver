@@ -2,7 +2,7 @@
 
 This is a result of a spontaneous one-day coding marathon. I'm running Sonic Adventure and Sonic Advance series games in emulators (with GC-GBA link cable emulation), and I need a way to earn rings for the Black Market without grinding or cheating.
 
-This tool automates the interacts with the [Chao Memory](https://chao-island.com/guides/spin-off-games/tiny-chao-garden/mini-games/chao-memory) game in the Tiny Chao Garden. It continuously takes screenshots of the [mGBA](https://mgba.io/) window, calculates most likely positions of different cards, tracks them while they're shuffled, and then simulates an input sequence based on the final card map. There's also a debug picture box that shows the calculated item map in real time, which looks cool.
+This tool automates the [Chao Memory](https://chao-island.com/guides/spin-off-games/tiny-chao-garden/mini-games/chao-memory) game in the Tiny Chao Garden. It continuously takes screenshots of the [mGBA](https://mgba.io/) window, calculates most likely positions of different cards, tracks them while they're shuffled, and then simulates an input sequence based on the final card map. There's also a debug picture box that shows the calculated item map in real time, which looks cool.
 
 This probably doesn't feel like cheating because I spent a day coding this, so it's a different kind of grinding effort or whatever.
 
